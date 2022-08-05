@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Exclaimer</id>
+    <version>1.17</version>
+    <title>Exclaimer</title>
+    <authors>Exclaimer</authors>
+    <owners>Exclaimer</owners>
+    <licenseUrl>https://www.exclaimer.com/nl/support/software-maintenance-agreement/</licenseUrl>
+    <projectUrl>https://www.exclaimer.com/products/exclaimer-signature-management-cloud/</projectUrl>
+    <iconUrl>https://upload.wikimedia.org/wikipedia/commons/3/38/Exclaimer_Ltd_logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Exclaimer lets you design and manage your organization’s Exchange email signatures and disclaimers irrespective of which Microsoft technology you are using, e.g. on-premises Exchange, hybrid Exchange, Exchange Online, etc. This removes the need for IT teams to be involved in day-to-day Exchange email signature management.
+	It is also the only on-premises Exchange signature management solution that can be seamlessly migrated to Office 365 (now Microsoft 365), future-proofing an organization should it decide to move to the cloud at a later date.</description>
+    <summary>__is a short explanation of the software. Please include summary in the nuspec__</summary>
+    <copyright>(c)2022 Exclaimer</copyright>
+    <tags>Exclaimer Cloud Signatures Outlook</tags>
+    <projectSourceUrl>https://github.com/JustinWesters/Chocolatey-Packages/tree/master/Exclaimer</projectSourceUrl>
+    <packageSourceUrl>https://support.portal.exclaimer.com/hc/en-gb/p/outlook-client</packageSourceUrl>
+  </metadata>
+</package>
